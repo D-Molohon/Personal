@@ -27,7 +27,7 @@ for /f "tokens=*" %%a in ('wmic diskdrive where "InterfaceType="USB"" get Captio
 
 set /p pickadrive="Pick whichever drive is the drive you are attempting to clean. (Use the "Index" number without quotes.) "
 for /f %%z in (%pickadrive%) do (set selecteddisk=%%z)
-set /a checkSelected = %selecteddisk% % 2
+set /a checkSelected = %selecteddisk% %% 2
 if NOT %checkSelected% == 1 echo "Invalid Disk Selection" && goto whichdrive
 :diskpartLoop
 if exist %temp%\diskpart.txt ren %temp%\diskpart.txt diskpart.txt || timeout /T 15 /NOBREAK && goto diskpartLoop
