@@ -7,7 +7,7 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "David Molohon",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^12.0.3",
