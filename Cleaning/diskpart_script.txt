@@ -1,0 +1,2 @@
+sel disk 0
+detail disk 
