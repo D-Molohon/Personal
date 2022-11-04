@@ -1,0 +1,84 @@
+{
+    "AnswerList": {
+        "Answer1": {
+            "value": 1,
+            "answer": "It is certain."
+            },
+        "Answer2": {
+            "value": 2,
+            "answer": "It is decidedly so."
+            },
+        "Answer3": {
+            "value": 3,
+            "answer": "Without a doubt."
+            },
+        "Answer4": {
+            "value": 4,
+            "answer": "Yes, definitely."
+            },
+        "Answer5": {
+            "value": 5,
+            "answer": "You may rely on it."
+            },
+        "Answer6": {
+            "value": 6,
+            "answer": "As I see it, yes."
+            },
+        "Answer7": {
+            "value": 7,
+            "answer": "Most likely."
+            },
+        "Answer8": {
+            "value": 8,
+            "answer": "Outlook good."
+            },
+        "Answer9": {
+            "value": 9,
+            "answer": "Yes."
+            },
+        "Answer10": {
+            "value": 10,
+            "answer": "Signs point to yes."
+            },
+        "Answer11": {
+            "value": 11,
+            "answer": "Reply hazy, try again after a bit."
+            },
+        "Answer12": {
+            "value": 12,
+            "answer": "Ask again later."
+            },
+        "Answer13": {
+            "value": 13,
+            "answer": "Better not tell you now."
+            },
+        "Answer14": {
+            "value": 14,
+            "answer": "Cannot predict now."
+            },
+        "Answer15": {
+            "value": 15,
+            "answer": "Concentrate and ask again in the future."
+            },
+        "Answer16": {
+            "value": 16,
+            "answer": "Don't count on it."
+            },
+        "Answer17": {
+            "value": 17,
+            "answer": "My reply is no."
+            },
+        "Answer18": {
+            "value": 18,
+            "answer": "My sources say no."
+            },
+        "Answer19": {
+            "value": 19,
+            "answer": "Outlook not so good."
+            },
+        "Answer20": {
+            "value": 20,
+            "answer": "Very doubtful."
+            }
+    }
+}
