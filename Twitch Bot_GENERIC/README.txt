@@ -21,6 +21,6 @@ Once the ".env" file is configued, open "server.js" in a text editor of your cho
 
 * Note that if you're not wanting to include YouTube, and only Twitter, or substitute another link instead, this can be edited.
 * You'll need to change some things at "function autosendsocials" and "if(command === 'links')"
-* You can also change wording around for the commands for the most part, but if you're wanting to do so please let Pastel know.
+* You can also change wording around for the commands for the most part, but if you're wanting to do so please let me know.
 
 Thanks for reading this, and please feel free to reach out to me with any questions or if you'd like help tuning the bot to your preferences! :D
